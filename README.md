@@ -49,6 +49,13 @@ git remote add origin 원격저장소 주소
 git push
 ```
 
+## branch history를 그래프로 확인하기
+
+- VScode 확장 프로그램으로 Git Graph 설치
+
+![1](./images/1.png)
+
+
 ## 새로운 branch 생성하기
 
 - 새로운 branch 생성을 한다.
@@ -121,6 +128,15 @@ git merge
 ### 에디터를 사용하여 해결
 
 - 충돌이 발생한 코드를 선택하여 결과 반영
+
+
+## Commint 되돌아 가기
+
+- git revert를 사용
+
+```
+git revert 취소하고자 하는 commit버전
+```
 
 
 
