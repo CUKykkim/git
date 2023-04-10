@@ -2,5 +2,5 @@
 
 -   [GitHub](https://github.com/) 으로 들어가 회원가입을 진행
 
-
+- 추가
 
