@@ -49,6 +49,13 @@ git remote add origin 원격저장소 주소
 git push
 ```
 
+## branch history를 그래프로 확인하기
+
+- VScode 확장 프로그램으로 Git Graph 설치
+
+![1](./images/1.png)
+
+
 ## 새로운 branch 생성하기
 
 - 새로운 branch 생성을 한다.
