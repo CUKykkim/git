@@ -106,6 +106,7 @@ git commit -m "더하기를 곱하기로 수정"
 git push -u origin brach 이름
 ```
 
+- oauth 방식이나, token 방식을 이용해 권한 인증
 
 
 ## branch 병합하기
