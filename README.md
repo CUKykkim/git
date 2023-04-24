@@ -46,7 +46,7 @@ git remote add origin 원격저장소 주소
 - 원격 저장소로 push
 
 ```
-git push
+git push -u origin 브렌치 이름
 ```
 
 ## branch history를 그래프로 확인하기
